@@ -28,5 +28,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=p4jq&show_icons=true&title_color=ff0000&text_color=ff0000&locale=en&layout=compact" alt="p4jq" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=p4jq&show_icons=true&title_color=ff0000&text_color=ff0000&locale=en" alt="p4jq" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=p4jq&theme=highcontrast" alt="p4jq" /></p>
